@@ -1,0 +1,70 @@
+.contact_bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 70px;   
+    }
+.contact_list_bg{
+    width: 50%;
+}
+.contact_list_container{
+    width: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.contact_input_container{
+    border-width: 0 0 5px 0;
+    border-color: rgb(109, 109, 109);
+    width: 100%;
+    height: 50px;
+}
+.contact_input_container>input{
+    width: 100%;
+    font-size: 15px;
+    padding: 10px;
+    border-width: 0 0 1px 0;
+    border-color: rgb(109, 109, 109);
+    height: 100%;
+    color: white;
+    background-color: black;
+    caret-color: blue;
+}
+.contact_data_container{
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    border: solid 1px black;
+    font-family: sans-serif;
+    padding: 15px;
+    font-size: 15px;
+    background-color: black;
+    border-width: 0 0 1px 0;
+    border-color: rgb(109, 109, 109);
+}
+.contact_data_container>h3{
+    font-weight: 400;
+}
+.contact_input_container>input:focus{
+    outline-width: 0;
+}
+.modal{
+    border: solid 1px black;
+    color: black;
+    padding: 20px;
+    font-family: sans-serif;
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: black;
+}
+.modal-data>h3{
+    margin-bottom: 10px;
+}
+.modal-data{
+    width: 75%;
+}

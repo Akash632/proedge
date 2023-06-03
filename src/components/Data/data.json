@@ -1,0 +1,96 @@
+[
+    {    "id":1,
+        "user_name":"Akash",
+        "phone":"+91-9876543210"
+    },
+    {   
+        "id":2,
+        "user_name":"Siddhu",
+        "phone":"+91-9876543210"
+    }, 
+    {
+        "id":3,
+        "user_name":"Arjun das",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":4,
+        "user_name":"Arjun reddy",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":5,
+        "user_name":"Adarsh Home",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":6,
+        "user_name":"Akash Lpu",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":7,
+        "user_name":"Mom",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":8,
+        "user_name":"Mom 2",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":9,
+        "user_name":"Surya nalam",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":10,
+        "user_name":"Surya Clg",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":11,
+        "user_name":"Abhinav",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":12,
+        "user_name":"Abhinav kumar",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":13,
+        "user_name":"Ayum",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":14,
+        "user_name":"Govind",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":15,
+        "user_name":"Sathvat",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":16,
+        "user_name":"Krishna",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":17,
+        "user_name":"Govind reddy",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":18,
+        "user_name":"Kriti",
+        "phone":"+91-9876543210"
+    },
+    {
+        "id":19,
+        "user_name":"Suraj",
+        "phone":"+91-9876543210"
+    }
+]
